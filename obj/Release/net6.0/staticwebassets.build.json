@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eepjAB4HJGJbnNgeNkn9vCqKAK9682grhEy+CmWTXS0=",
+  "Source": "IECE_WebApiScanQR",
+  "BasePath": "_content/IECE_WebApiScanQR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
